@@ -55,7 +55,7 @@ With Streamlit, the project transforms the model into a user-friendly web applic
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Manoj170606/implementation-of-ml-model-for-image-classification
-   cd Implementation of ML Model for Image Classification
+   cd implementation-of-ml-model-for-image-classification
 2. **Create and activate a virtual environment**:
     ```bash
     python -m venv venv
